@@ -1,0 +1,7 @@
+{
+  "name": "rpglife",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
